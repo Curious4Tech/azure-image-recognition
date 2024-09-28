@@ -33,6 +33,8 @@ Before you begin, ensure you have met the following requirements:
    ```
    Replace `your_computer_vision_key_here` and `your_computer_vision_endpoint_here` with your actual Azure Computer Vision key and endpoint.
 
+   See the [.env.example](.env.example) for step by stype guide on how to create a `.env` file.
+
 ## Usage
 
 1. Open the `image_recognition.py` file.
