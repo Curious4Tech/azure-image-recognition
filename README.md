@@ -42,17 +42,19 @@ Refer to the [.env.example](.env.example) for a step-by-step guide on creating a
 
 1. Open the `image_recognition.py` file.
 
-2. Replace the `image_url` variable with the URL of the image you want to analyze:
+2. Replace the `image_url` variable with the URL of the image you want to analyze.
+
+   You can find any publicly available image URL or host an image online (for example, via Imgur or Google Drive).
    ```python
    image_url = "https://example.com/path/to/your/image.jpg"
    ```
 
-3. Run the script:
+4. Run the script:
    ```
    python image_recognition.py
    ```
 
-4. The script will output the analysis results, including:
+5. The script will output the analysis results, including:
    - Image description
    - Tags
    - Categories
