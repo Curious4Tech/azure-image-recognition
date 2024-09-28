@@ -1,0 +1,2 @@
+AZURE_COMPUTER_VISION_KEY=your_subscription_key
+AZURE_COMPUTER_VISION_ENDPOINT=your_endpoint_url
