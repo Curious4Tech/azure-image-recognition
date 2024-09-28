@@ -1,4 +1,4 @@
-# Image Analyzer
+# Image Analyzer WebApp
 
 ## Overview
 
