@@ -63,7 +63,7 @@ Refer to the [.env.example](.env.example) for a step-by-step guide on creating a
 ## File Structure
 
 - `image_recognition.py`: The main Python script that performs image analysis.
-- `.env`: Contains your Azure credentials (do not commit this file to version control).
+- `.env`: Contains your Azure credentials (do not commit this file to version control in case you have your credentials in it).
 - `README.md`: This file, containing project documentation.
 
 ## Contributing
