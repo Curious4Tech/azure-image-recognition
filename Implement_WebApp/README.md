@@ -26,7 +26,7 @@ Image Analyzer is a web application built with Flask that allows users to upload
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/azure-image-recognition.git
+   git clone https://github.com/Curious4Tech/azure-image-recognition.git
    
    cd azure-image-recognition/Implement_WebApp
    ```
