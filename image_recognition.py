@@ -72,5 +72,5 @@ def analyze_image(image_url):
 # Main execution
 if __name__ == "__main__":
     # Example usage
-    image_url = "https://pluspng.com/img-png/cute-dog-png-hd-dog-png-image-22649-dog-png-1440.png"
+    image_url = "https://example.com/path/to/your/image.jpg"
     analyze_image(image_url)
