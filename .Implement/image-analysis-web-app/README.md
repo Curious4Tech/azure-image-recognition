@@ -30,7 +30,7 @@ Image Analyzer is a web application built with Flask that allows users to upload
    cd azure-image-recognition/tree/main/.Implement/image-analysis-web-app
    ```
 
- 2.  Install the required dependencies:
+ 2.  Install the required dependencies (Optional for this demo):
   ```
    pip install -r requirements.txt
   ```
