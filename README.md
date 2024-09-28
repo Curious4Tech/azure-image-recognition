@@ -19,7 +19,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/yourusername/azure-image-recognition.git
+   git clone https://github.com/Curious4Tech/azure-image-recognition.git
    cd azure-image-recognition
    ```
 
