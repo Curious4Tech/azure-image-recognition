@@ -30,7 +30,12 @@ Image Analyzer is a web application built with Flask that allows users to upload
    cd azure-image-recognition/tree/main/.Implement/image-analysis-web-app
    ```
 
-2. Set up your Azure Computer Vision API credentials:
+ 2.  Install the required dependencies:
+  ```
+   pip install -r requirements.txt
+  ```
+
+ 3. Set up your Azure Computer Vision API credentials:
    - Create a `.env` file in the root directory of the project
    - Add your Azure credentials to the `.env` file:
      ```
@@ -38,12 +43,12 @@ Image Analyzer is a web application built with Flask that allows users to upload
      AZURE_COMPUTER_VISION_ENDPOINT=your_endpoint_url
      ```
 
-3. Run the Flask application:
+4. Run the Flask application:
    ```
    python app.py
    ```
 
-4. Open a web browser and navigate to `http://127.0.0.1:5000/` to use the application.
+5. Open a web browser and navigate to `http://127.0.0.1:5000/` to use the application.
 
 ## Usage
 
