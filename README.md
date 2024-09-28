@@ -12,6 +12,8 @@ Before you begin, ensure you have met the following requirements:
 * You have a Microsoft Azure account with an active subscription.
 * You have created a Computer Vision resource in your Azure account.
 * You have Python 3.6 or later installed on your system.
+  
+  Run this command on your terminal : ```python --version ```
 
 ## Installation
 
