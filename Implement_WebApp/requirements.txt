@@ -1,8 +1,3 @@
-<<<<<<< HEAD:Implement_WebApp/requirements.txt
-AZURE_COMPUTER_VISION_KEY=your_subscription_key
-AZURE_COMPUTER_VISION_ENDPOINT=your_endpoint_url
-=======
 flask
 azure-cognitiveservices-vision-computervision
 python-dotenv
->>>>>>> 6356ce1d40922c91ba67a8214c66e2fdb75f3723:.Implement/image-analysis-web-app/requirements.txt
