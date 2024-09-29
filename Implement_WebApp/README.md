@@ -44,7 +44,7 @@ Image Analyzer is a web application built with Flask that allows users to upload
      AZURE_COMPUTER_VISION_ENDPOINT=your_endpoint_url
      ```
 
-Refer to the [.env.example](.env.example) for a step-by-step guide on creating and configuring a `.env` file.
+The `.env` file is already created you juste need to add your computer vision resource credentials ( key and endpoint)
 
 4. Run the Flask application:
    ```
